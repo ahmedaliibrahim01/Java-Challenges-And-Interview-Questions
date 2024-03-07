@@ -3,12 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01. Area of Rectangle/Java 1. Area of Rectangle.iml" filepath="$PROJECT_DIR$/01. Area of Rectangle/Java 1. Area of Rectangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java 2. Convert Kilometers to Miles/Java 2. Convert Kilometers to Miles.iml" filepath="$PROJECT_DIR$/Java 2. Convert Kilometers to Miles/Java 2. Convert Kilometers to Miles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java 3. Calculate Profit-Loss Amount/Java 3. Calculate Profit-Loss Amount.iml" filepath="$PROJECT_DIR$/Java 3. Calculate Profit-Loss Amount/Java 3. Calculate Profit-Loss Amount.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java 4. BMI Calculator/Java 4. BMI Calculator.iml" filepath="$PROJECT_DIR$/Java 4. BMI Calculator/Java 4. BMI Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java 5. Convert Fahrenheit to Celsius/Java 5. Convert Fahrenheit to Celsius.iml" filepath="$PROJECT_DIR$/Java 5. Convert Fahrenheit to Celsius/Java 5. Convert Fahrenheit to Celsius.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java 6. Find Volume of a Cube/Java 6. Find Volume of a Cube.iml" filepath="$PROJECT_DIR$/Java 6. Find Volume of a Cube/Java 6. Find Volume of a Cube.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java 7. Swap Two Numbers/Java 7. Swap Two Numbers.iml" filepath="$PROJECT_DIR$/Java 7. Swap Two Numbers/Java 7. Swap Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. Convert Kilometers to Miles/Java 2. Convert Kilometers to Miles.iml" filepath="$PROJECT_DIR$/02. Convert Kilometers to Miles/Java 2. Convert Kilometers to Miles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. Calculate Profit-Loss Amount/Java 3. Calculate Profit-Loss Amount.iml" filepath="$PROJECT_DIR$/03. Calculate Profit-Loss Amount/Java 3. Calculate Profit-Loss Amount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. BMI Calculator/Java 4. BMI Calculator.iml" filepath="$PROJECT_DIR$/04. BMI Calculator/Java 4. BMI Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. Convert Fahrenheit to Celsius/Java 5. Convert Fahrenheit to Celsius.iml" filepath="$PROJECT_DIR$/05. Convert Fahrenheit to Celsius/Java 5. Convert Fahrenheit to Celsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. Find Volume of a Cube/Java 6. Find Volume of a Cube.iml" filepath="$PROJECT_DIR$/06. Find Volume of a Cube/Java 6. Find Volume of a Cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. Swap Two Numbers/Java 7. Swap Two Numbers.iml" filepath="$PROJECT_DIR$/07. Swap Two Numbers/Java 7. Swap Two Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/programiz.iml" filepath="$PROJECT_DIR$/.idea/programiz.iml" />
     </modules>
   </component>
