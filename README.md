@@ -12,3 +12,5 @@ Java Challenges
    - OOP Advance
    - Completing OOP
 3. Beyond Basics Challenges
+   - Collections
+   - Additional Topics
