@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java 01. Area of Rectangle/Java 01. Area of Rectangle.iml" filepath="$PROJECT_DIR$/Java 01. Area of Rectangle/Java 01. Area of Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java 01. Basics Challenges.iml" filepath="$PROJECT_DIR$/.idea/Java 01. Basics Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 02. Convert Kilometers to Miles/Java 02. Convert Kilometers to Miles.iml" filepath="$PROJECT_DIR$/Java 02. Convert Kilometers to Miles/Java 02. Convert Kilometers to Miles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 03. Calculate Profit-Loss Amount/Java 03. Calculate Profit-Loss Amount.iml" filepath="$PROJECT_DIR$/Java 03. Calculate Profit-Loss Amount/Java 03. Calculate Profit-Loss Amount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 04. BMI Calculator/Java 04. BMI Calculator.iml" filepath="$PROJECT_DIR$/Java 04. BMI Calculator/Java 04. BMI Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 05. Convert Fahrenheit to Celsius/Java 05. Convert Fahrenheit to Celsius.iml" filepath="$PROJECT_DIR$/Java 05. Convert Fahrenheit to Celsius/Java 05. Convert Fahrenheit to Celsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 06. Find Volume of a Cube/Java 06. Find Volume of a Cube.iml" filepath="$PROJECT_DIR$/Java 06. Find Volume of a Cube/Java 06. Find Volume of a Cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 07. Swap Two Numbers/Java 07. Swap Two Numbers.iml" filepath="$PROJECT_DIR$/Java 07. Swap Two Numbers/Java 07. Swap Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 08. Calculate Simple Interest/Java 08. Calculate Simple Interest.iml" filepath="$PROJECT_DIR$/Java 08. Calculate Simple Interest/Java 08. Calculate Simple Interest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 09. Maximum Possible Handshakes/Java 09. Maximum Possible Handshakes.iml" filepath="$PROJECT_DIR$/Java 09. Maximum Possible Handshakes/Java 09. Maximum Possible Handshakes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 10 . Divide N Chocolates Among M Children/Java 10 . Divide N Chocolates Among M Children.iml" filepath="$PROJECT_DIR$/Java 10 . Divide N Chocolates Among M Children/Java 10 . Divide N Chocolates Among M Children.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 11. Convert Pound to Kilogram/Java 11. Convert Pound to Kilogram.iml" filepath="$PROJECT_DIR$/Java 11. Convert Pound to Kilogram/Java 11. Convert Pound to Kilogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 12. Check Even or Odd/Java 12. Check Even or Odd.iml" filepath="$PROJECT_DIR$/Java 12. Check Even or Odd/Java 12. Check Even or Odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 13. Check Pass-Fail or Invalid/Java 13. Check Pass-Fail or Invalid.iml" filepath="$PROJECT_DIR$/Java 13. Check Pass-Fail or Invalid/Java 13. Check Pass-Fail or Invalid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 14. Check Eligibility for Voting/Java 14. Check Eligibility for Voting.iml" filepath="$PROJECT_DIR$/Java 14. Check Eligibility for Voting/Java 14. Check Eligibility for Voting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 15. Print FizzBuzz Based on Input/Java 15. Print FizzBuzz Based on Input.iml" filepath="$PROJECT_DIR$/Java 15. Print FizzBuzz Based on Input/Java 15. Print FizzBuzz Based on Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 16. Calculate Employee Bonus/Java 16. Calculate Employee Bonus.iml" filepath="$PROJECT_DIR$/Java 16. Calculate Employee Bonus/Java 16. Calculate Employee Bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 17. Check Leap Year/Java 17. Check Leap Year.iml" filepath="$PROJECT_DIR$/Java 17. Check Leap Year/Java 17. Check Leap Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 18. Compute Grade of Students/Java 18. Compute Grade of Students.iml" filepath="$PROJECT_DIR$/Java 18. Compute Grade of Students/Java 18. Compute Grade of Students.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 19. Find Youngest Brother/Java 19. Find Youngest Brother.iml" filepath="$PROJECT_DIR$/Java 19. Find Youngest Brother/Java 19. Find Youngest Brother.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 20. Print a Sentence 3 Times/Java 20. Print a Sentence 3 Times.iml" filepath="$PROJECT_DIR$/Java 20. Print a Sentence 3 Times/Java 20. Print a Sentence 3 Times.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 21. Sum of Natural Numbers/Java 21. Sum of Natural Numbers.iml" filepath="$PROJECT_DIR$/Java 21. Sum of Natural Numbers/Java 21. Sum of Natural Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 22. Print Multiplication Table/Java 22. Print Multiplication Table.iml" filepath="$PROJECT_DIR$/Java 22. Print Multiplication Table/Java 22. Print Multiplication Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 23. Factorial of a Number/Java 23. Factorial of a Number.iml" filepath="$PROJECT_DIR$/Java 23. Factorial of a Number/Java 23. Factorial of a Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 24. Add Numbers Until User Enters 0/Java 24. Add Numbers Until User Enters 0.iml" filepath="$PROJECT_DIR$/Java 24. Add Numbers Until User Enters 0/Java 24. Add Numbers Until User Enters 0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 25. Check Prime Number/Java 25. Check Prime Number.iml" filepath="$PROJECT_DIR$/Java 25. Check Prime Number/Java 25. Check Prime Number.iml" />
+    </modules>
+  </component>
+</project>

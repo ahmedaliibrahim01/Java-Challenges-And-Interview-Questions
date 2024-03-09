@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b101061-f731-4350-9ea0-d21bdf2af587" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Java 01. Area of Rectangle/Java 01. Area of Rectangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 02. Convert Kilometers to Miles/Java 02. Convert Kilometers to Miles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 03. Calculate Profit-Loss Amount/Java 03. Calculate Profit-Loss Amount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 04. BMI Calculator/Java 04. BMI Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 05. Convert Fahrenheit to Celsius/Java 05. Convert Fahrenheit to Celsius.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 06. Find Volume of a Cube/Java 06. Find Volume of a Cube.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 07. Swap Two Numbers/Java 07. Swap Two Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 08. Calculate Simple Interest/Java 08. Calculate Simple Interest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 09. Maximum Possible Handshakes/Java 09. Maximum Possible Handshakes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 10 . Divide N Chocolates Among M Children/Java 10 . Divide N Chocolates Among M Children.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 11. Convert Pound to Kilogram/Java 11. Convert Pound to Kilogram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 13. Check Pass-Fail or Invalid/Java 13. Check Pass-Fail or Invalid.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 14. Check Eligibility for Voting/Java 14. Check Eligibility for Voting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 15. Print FizzBuzz Based on Input/Java 15. Print FizzBuzz Based on Input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 16. Calculate Employee Bonus/Java 16. Calculate Employee Bonus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 17. Check Leap Year/Java 17. Check Leap Year.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 18. Compute Grade of Students/Java 18. Compute Grade of Students.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 19. Find Youngest Brother/Java 19. Find Youngest Brother.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 20. Print a Sentence 3 Times/Java 20. Print a Sentence 3 Times.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 21. Sum of Natural Numbers/Java 21. Sum of Natural Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 22. Print Multiplication Table/Java 22. Print Multiplication Table.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 23. Factorial of a Number/Java 23. Factorial of a Number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 24. Add Numbers Until User Enters 0/Java 24. Add Numbers Until User Enters 0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 25. Check Prime Number/Java 25. Check Prime Number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 25. Check Prime Number/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2dSRHTBfxMKh6JbXsOFNdHsY4Ke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mac/Documents/programiz/Java 01. Basics Challenges"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b101061-f731-4350-9ea0-d21bdf2af587" name="Changes" comment="" />
+      <created>1709999404862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709999404862</updated>
+    </task>
+    <servers />
+  </component>
+</project>
