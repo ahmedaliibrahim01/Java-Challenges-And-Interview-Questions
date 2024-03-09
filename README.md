@@ -7,4 +7,8 @@ Java Challenges
    - String
    - Arrays
 2. OOP Challenges
+   - OOP Basics
+   - Inheritance
+   - OOP Advance
+   - Completing OOP
 3. Beyond Basics Challenges
