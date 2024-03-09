@@ -1,6 +1,4 @@
-Introduction
--
-
+## Introduction
 - [x] Area of Rectangle
 - [x] Convert Kilometers to Miles
 - [x] Profit/Loss Amount
@@ -13,8 +11,7 @@ Introduction
 - [x] Divide Chocolates Among Children
 - [x] Convert Pound to Kilogram
 
-Flow Control
--
+## Flow Control
 - [x] Check Even or Odd
 - [x] Check Pass, Fail or Invalid
 - [x] Check Eligibility for Voting
@@ -42,11 +39,9 @@ Flow Control
 - [x] Abundant Number
 - [x] Create Calculator
 
-Methods
--
+## Methods
 - [x] Check if Two Arguments are Equal
 - [x] Use Same Method Twice
-- [x] Course complete
 - [x] Area of Circle
 - [x] Calculate Simple Interest
 - [x] Reverse a Number
@@ -56,10 +51,8 @@ Methods
 - [x] Self-Dividing Number
 - [x] GCD of Two Numbers
 - [x] LCM of Two Numbers
-
-
-String
--
+- 
+## String
 - [x] Find Longer String
 - [x] Join Two Strings
 - [x] Access String Characters
@@ -69,8 +62,7 @@ String
 - [x] Print Non-Alphabet Characters
 - [x] Convert First Letter to Uppercase
 
-Arrays
--
+## Arrays
 - [x] Print Individual Elements of Array
 - [x] Compare First and Last Array Elements
 - [x] Mean Height of Players
