@@ -1,0 +1,36 @@
+
+- [x] Java Virtual Machine(JVM)
+- [x] Types of Memory Area Allocated by JVM
+- [x] JIT Compiler
+- [x] Exceptions in Java
+- [x] Static and Non-Static Method
+- [x] Final Variable, Method and Class
+- [x] No Pointers in Java
+- [x] Overloading the main() Method
+- [x] JVM, JRE, JDK
+- [x] Wrapper Class
+- [x] Making a Constructor final
+- [x] Difference Between an Interface and an Abstract Class
+- [x] Java Functional Interface
+- [x] Multiple Inheritance not Supported in Java
+- [x] Difference Between "throw" and "throws"
+- [x] Overriding Static Method
+- [X] Overriding an Overloaded Method
+- [x] Does a class Inherit Constructors of its Superclass?
+- [x] Create Instances When Constructor is not Defined
+- [x] main() Method in Java
+- [x] equals() Method and == operator
+- [x] Garbage Collection in Java
+- [x] HashMap and Hashtable
+- [x] Local Variable and Instance Variable
+- [x] Heap Memory and Stack Memory
+- [x] main() isn't Declared as static
+- [x] String, StringBuilder, StringBuffer
+- [x] Multithreading in Java
+- [x] final, finalize and finally
+- [x] Enums
+- [x] System Class
+- [x] Global Variables
+- [x] Synchronized Methods or Blocks
+- [x] Iterator and ListIterator
+- [x] Polymorphism
