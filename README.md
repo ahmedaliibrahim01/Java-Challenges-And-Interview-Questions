@@ -14,3 +14,9 @@ Java Challenges
 3. Beyond Basics Challenges
    - Collections
    - Additional Topics
+4. Java Interview Questions
+   - Basics
+   - Intermediate
+   - Advanced
+   - Theory Questions
+   - Coding Challenges
